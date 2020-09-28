@@ -1,0 +1,47 @@
+body{
+    background-color:#3a352f ;
+}
+
+#container{
+    font-family: 'Pontano Sans', sans-serif;
+    background-color: #37323d;
+    color: #f2e6ff;
+    margin: 10px auto;
+    padding: 20px;
+    width: 70%;
+    font-family: 'Pontano Sans', sans-serif;
+
+}
+.left-col{
+    float:left;
+   
+}
+
+    h1{
+        color: #aba09c;
+    }
+ 
+    .right-col{
+        float:right;
+       
+    }
+    img{
+        width:200px;
+    }
+    .button{
+        border: solid;
+        border-width: thin;
+        border-radius: 10px 5px 10px 5px;
+        text-decoration: none;
+        color: aliceblue;
+        width: 20px;
+        height: 10px;
+        padding: 5px;
+    }    
+    .clearFix{
+        clear: both;
+    }
+
+
+
+
