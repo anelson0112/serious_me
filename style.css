@@ -1,0 +1,85 @@
+body{
+    background-image: url("lightning.jpg");
+    background-color:#cccccc ;
+}
+
+#container{
+    font-family: 'Pontano Sans', sans-serif;
+    background-color: #4b3a40;
+    color: #f2e6ff;
+    margin: 20px auto;
+    padding: 20px;
+    width: 50%;
+    font-family: 'Pontano Sans', sans-serif;
+
+}
+    .left{
+        float:left;
+        width: 50%;
+        margin: auto;
+        
+        
+    }
+
+    h1{
+        color: #8a8498;
+        font-weight: bold;
+
+    }
+    h2{
+        color: #988689;
+        font-style: oblique;
+    }
+    h3{
+        color: #988689;
+         
+    }
+    h4{
+        color: #988689;  
+    }
+   
+    .right{
+        float:right;
+        width: 50%;
+        margin: auto;
+        
+        
+        
+       
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+        border-radius: 8px;
+      
+    }
+    .button{
+        border: solid;
+        border-width: thin;
+        border-radius: 10px 5px 10px 5px;
+        text-decoration: none;
+        color: #a98077;
+        width: 20px;
+        height: 10px;
+        padding: 5px;
+    }    
+    .clearFix{
+        clear:both;
+    }
+footer{
+    background-color: black;
+    color: lightslategray;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    font-family: 'Pontano Sans', sans-serif;
+    margin: auto;
+
+}
+a:link {
+    color: lightsteelblue;
+}
+
+
