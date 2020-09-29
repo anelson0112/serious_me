@@ -63,7 +63,18 @@ body{
     .clearFix{
         clear:both;
     }
+footer{
+    background-color: black;
+    color: lightslategray;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    font-family: 'Pontano Sans', sans-serif;
+    margin: auto;
 
-
+}
+a:link {
+    color: lightsteelblue;
+}
 
 
